@@ -1,0 +1,21 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+	<h1> Evento jksjksjksd </h1>
+
+	<form action="./confirmarAsistencia.jsp" method="post">
+		<input type="submit" value="Asistiré"/>
+	</form>
+	<form action="./consultarInvitado.jsp" method="get">
+		<div><label>Mail</label><input type="email" name="mail" required/></div>
+		<input type="submit" value="Consultar Invitado"/>
+	</form>
+
+
+</body>
+</html>

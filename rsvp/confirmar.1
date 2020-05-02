@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+<p>Hello!
+    <a href="/_ah/login?continue=%2Frsvp.jsp">Sign in</a>
+    to include your name with greetings you post.</p>
+
+
+
+<p>Guestbook 'null' has no messages.</p>
+
+
+<form action="/confirmar" method="post">
+    <div><textarea name="content" rows="3" cols="60"></textarea></div>
+    <div><input type="submit" value="Post"/></div>
+    <input type="hidden" name="guestbookName" value="null"/>
+</form>
+
+<form action="/rsvp.jsp" method="get">
+    <div><input type="text" name="guestbookName" value="null"/></div>
+    <div><input type="submit" value="Switch Guestbook"/></div>
+</form>
+
+<form action="/consultar" method="get">
+    <div><input type="text" name="guestbookName" value="null"/></div>
+    <div><input type="submit" value="Consultar"/></div>
+</form>
+
+</body>
+</html>
