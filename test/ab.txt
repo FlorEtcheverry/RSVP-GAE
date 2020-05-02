@@ -1,0 +1,3951 @@
+This is ApacheBench, Version 2.3 <$Revision: 1528965 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking www.rsvp-1092.appspot.com (be patient)...INFO: GET header == 
+---
+GET / HTTP/1.0
+Host: www.rsvp-1092.appspot.com
+User-Agent: ApacheBench/2.3
+Accept: */*
+
+
+---
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:41 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:42 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:43 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:44 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+LOG: header received:
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Date: Mon, 19 Oct 2015 19:17:46 GMT
+Server: Google Frontend
+Content-Length: 762
+
+
+
+
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>
+</head>
+
+<body>
+
+
+
+<h1> Inscribite al evento Mi Evento </h1>
+
+<form action="/confirmarAsistencia" method="post">
+	<div><label>Nombre</label><input type="text" name="nombre"/></div>
+	<div><label>Apellido</label><input type="text" name="apellido"/></div>
+	<div><label>Mail</label><input type="email" name="mail" required/></div>
+	<div><label>Compañía</label><input type="text" name="cnia" required/></div>
+	<div><input type="submit" value="Registrar"/></div>
+</form>
+
+<form action="./consultarInvitado.jsp" method="get">
+	<div><label>Mail</label><input type="email" name="c_mail" required/></div>
+	<input type="submit" value="Consultar Invitado"/>
+</form>
+
+</body>
+</html>
+
+LOG: Response code = 200
+..done
+
+
+Server Software:        Google
+Server Hostname:        www.rsvp-1092.appspot.com
+Server Port:            80
+
+Document Path:          /
+Document Length:        762 bytes
+
+Concurrency Level:      50
+Time taken for tests:   4.985 seconds
+Complete requests:      100
+Failed requests:        0
+Total transferred:      90400 bytes
+HTML transferred:       76200 bytes
+Requests per second:    20.06 [#/sec] (mean)
+Time per request:       2492.579 [ms] (mean)
+Time per request:       49.852 [ms] (mean, across all concurrent requests)
+Transfer rate:          17.71 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       31   83 169.1     53    1038
+Processing:   217 1085 1111.8    360    4922
+Waiting:      216 1083 1111.8    357    4917
+Total:        264 1168 1113.8    467    4981
+
+Percentage of the requests served within a certain time (ms)
+  50%    467
+  66%   1349
+  75%   2088
+  80%   2588
+  90%   3135
+  95%   3155
+  98%   3647
+  99%   4981
+ 100%   4981 (longest request)
